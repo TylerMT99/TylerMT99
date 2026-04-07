@@ -25,7 +25,6 @@ I am a security researcher and CTF competitor focused on low-level exploitation 
 
 ---
 
-### 🛠️ ARSENAL_v3.1
 ### 🛠️ ARSENAL_v3.1 [MOBILE_OPERATIONS]
 <p align="left">
   <img src="https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=termux&logoColor=white" />
@@ -39,8 +38,8 @@ I am a security researcher and CTF competitor focused on low-level exploitation 
 
 ### 📊 OPERATIONAL_METRICS
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=matrix" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TylerMT99&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerMT99&layout=compact&langs_count=7&theme=matrix" />
 </p>
 
 ---
