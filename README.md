@@ -1,7 +1,7 @@
 # 💀 [GRIM3 // GRIMSEC OPERATIONS]
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=REDACTED+OPERATOR;CTF+ENTHUSIAST;GRIMSEC+CORE;PENETRATION+TESTER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=REVERSE+ENGINEER;CTF+PLAYER;WEB+ANALYST;PENETRATION+TESTER" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,6 +34,7 @@ I am a security researcher and CTF competitor focused on low-level exploitation 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-262626?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Assembly-FF0000?style=flat-square&logo=webassembly&logoColor=white" />
 </p>
 
 ### 📊 OPERATIONAL_METRICS
